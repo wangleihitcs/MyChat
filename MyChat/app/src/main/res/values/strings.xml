@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyChat</string>
+    <string name="text_set">设置</string>
+    <string name="text_his">历史</string>
+    <string name="text_put">发送</string>
+    <string name="text_input">请输入信息</string>
+    <string name="text_serverip">发送到:IP地址</string>
+    <string name="text_clientport">发送端端口</string>
+    <string name="text_serverport">接收端端口</string>
+    <string name="text_port">12345</string>
+    <string name="text_ip">192.168.0.0</string>
+    <string name="text_ack">确认</string>
+</resources>
